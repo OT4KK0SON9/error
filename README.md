@@ -16,3 +16,7 @@ git clone https://github.com/OT4KK0SON9/error
 
 # •
 ls
+# Pilih
+python3 Spam.py
+# 
+python3 SpamWa.py
