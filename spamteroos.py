@@ -122,7 +122,7 @@ def banner():
 
 def start(): # Def Untuk Start Tools
     banner()
-    pil=input(f"        Nomor Telepon : ")
+    pil=input(f"        Pilih Nomor Diatas (Bukan Nomor Hp): ")
     if pil == "1":
         jam()
     elif pil == "2":
