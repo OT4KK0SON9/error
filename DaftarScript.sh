@@ -1,5 +1,5 @@
 figlet Otak Kosong | lolcat
-echo -e “Selamag Menunaikan Ibadah Puasa 11/03/24“ |lolcat
+echo -e “Selamag Menunaikan Ibadah Puasa 12/Mar/24“ |lolcat
 echo -e “Daftar Script $red : Otak Kosong $white” |lolcat
 echo -e “By : Otak Kosong $white ” |lolcat
 echo “”
