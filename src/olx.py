@@ -2,7 +2,7 @@ import requests, time
 
 print("""
 	[ olx.co.id OTP ]
-	   - noobie -
+	   🐦🐦
 """)
 
 num=input("[In] Number: ")
